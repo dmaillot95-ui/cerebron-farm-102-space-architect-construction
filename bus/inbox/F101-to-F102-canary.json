@@ -1,0 +1,14 @@
+{
+  "schema_version": "SPACE_BUS_V1",
+  "cycle_id": "SPACE-BUS-DELIVERY-0001",
+  "source": 101,
+  "destination": 102,
+  "source_repo": "cerebron-farm-101-space-world-core",
+  "destination_repo": "cerebron-farm-102-space-architect-construction",
+  "payload": {
+    "canary": true,
+    "value": 101102
+  },
+  "epistemic": "CROSS_REPO_DELIVERY_CANARY_NOT_SIMULATION_STATE",
+  "payload_sha256": "computed-by-receiver"
+}
