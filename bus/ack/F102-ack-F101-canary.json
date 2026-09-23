@@ -1,0 +1,11 @@
+{
+  "schema_version": "SPACE_BUS_ACK_V1",
+  "cycle_id": "SPACE-BUS-DELIVERY-0001",
+  "source": 102,
+  "ack_for_source": 101,
+  "inbox_blob_sha": "168181b8f3b37f6146729837dfe4cc34e2974e87",
+  "verified": true,
+  "consumption_id": "SPACE-BUS-DELIVERY-0001:F102:168181b8f3b37f6146729837dfe4cc34e2974e87",
+  "status": "ACK",
+  "epistemic": "DELIVERY_ACK_CANARY_NOT_PHYSICAL_SIMULATION"
+}
